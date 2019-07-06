@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+/*
+ * @author T33pUs3r
+ *
+ * Print "Hello, World!" to the console
+ */
+int main(void){
+    printf("Hello, World!\n");
+    return 0;
+}
